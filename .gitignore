@@ -1,0 +1,12 @@
+# Copyright 2019 VMware, Inc.  
+# SPDX-License-Identifier: BSD-2-Clause
+
+# That random macOS file.
+.DS_Store
+
+# Python compilation caches, of which there are several due to the package
+# structure and unit tests.
+__pycache__/
+
+# Typical location of a developer copy of the test data.
+/data/
