@@ -1,11 +1,9 @@
-
-
-# Contributing to doctor
-
-The doctor project team welcomes contributions from the community. Before you start working with doctor, please
-read our [Developer Certificate of Origin](https://cla.vmware.com/dco). All contributions to this repository must be
-signed as described on that page. Your signature certifies that you wrote the patch or have the right to pass it on
-as an open-source patch.
+# Contributing to Doctor
+The Doctor project team welcomes contributions from the community. Before you
+start working with Doctor, please read our [Developer Certificate of
+Origin](https://cla.vmware.com/dco). All contributions to this repository must
+be signed as described on that page. Your signature certifies that you wrote the
+patch or have the right to pass it on as an open-source patch.
 
 ## Contribution Flow
 
@@ -64,6 +62,7 @@ Be sure to add a comment to the PR indicating your new changes are ready to revi
 notification when you git push.
 
 ### Code Style
+The Doctor is written in Python and makes use of the PEP 8 style guidelines.
 
 ### Formatting Commit Messages
 
