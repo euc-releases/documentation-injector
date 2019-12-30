@@ -9,7 +9,7 @@ The test suite uses the Python Unit Test framework. See:
 
 The tests can be run like this:
     
-    cd /path/where/you/cloned/doctor
+    cd /path/where/you/cloned/documentation-injector
     cd test
     MISTUNE=/your/mistune/directory python3 -m unittest
 
@@ -26,7 +26,7 @@ Tips
 ====
 You can run an individual test like this:
 
-    cd /path/where/you/cloned/doctor
+    cd /path/where/you/cloned/documentation-injector
     cd test
     MISTUNE=/your/mistune/directory python3 -m unittest test_doctor.TestDoctor.test_extract_mode
 
@@ -35,7 +35,7 @@ Test Data
 The test suite includes a set of data that may be useful during development of
 the Doctor. The data can be copied and used as input, for example as follows.
 
-    $ cd /path/where/you/cloned/doctor
+    $ cd /path/where/you/cloned/documentation-injector
     $ python3 test/set_up.py
     $ ls -l data
     total 48

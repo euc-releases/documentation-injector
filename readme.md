@@ -48,11 +48,11 @@ To run the Doctor, you will need the following.
     
 
 -   The code in this repository,
-    [https://gitlab.eng.vmware.com/ws1-sw/thirdparty/doctor](https://gitlab.eng.vmware.com/ws1-sw/thirdparty/doctor)
+    [https://github.com/vmware/documentation-injector](https://github.com/vmware/documentation-injector)
 
 Check your installation by running the tool as follows.
 
-    cd /path/where/you/cloned/doctor
+    cd /path/where/you/cloned/documentation-injector
     python3 -m doctor -m /path/where/you/downloaded/mistune
 
 This should print an error message like the following.
