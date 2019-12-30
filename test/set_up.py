@@ -131,11 +131,12 @@ context manager.
 def main(argv):
     argumentParser = argparse.ArgumentParser(
         formatter_class=argparse.RawDescriptionHelpFormatter,
-        description=textwrap.dedent(__doc__), epilog="""\
+        description=textwrap.dedent(__doc__), epilog=r"""
 Default is to delete the local `data/` directory, and then make a copy of the
 unit test data there, i.e.:
 
-    python3 set_up.py --copy-data /path/where/you/cloned/doctor/data/
+    python3 test/set_up.py \
+        --copy-data /path/where/you/cloned/documentation-injector/data/
     
 """)
     argumentParser.add_argument(
