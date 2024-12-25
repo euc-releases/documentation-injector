@@ -1,4 +1,4 @@
-Copyright 2019 VMware, Inc.  
+Copyright 2024 Omnissa, LLC.  
 SPDX-License-Identifier: BSD-2-Clause
 
 Docco fragments in this file get loaded into the cache by a command line switch.

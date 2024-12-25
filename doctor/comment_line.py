@@ -1,5 +1,5 @@
 # Run with Python 3
-# Copyright 2019 VMware, Inc.
+# Copyright 2024 Omnissa, LLC.
 # SPDX-License-Identifier: BSD-2-Clause
 """\
 Comment Line. Part of the Doctor documentation tool.

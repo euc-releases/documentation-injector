@@ -1,5 +1,5 @@
 # Run with Python 3
-# Copyright 2019 VMware, Inc.
+# Copyright 2024 Omnissa, LLC.
 # SPDX-License-Identifier: BSD-2-Clause
 """\
 Doctor processing interface, original ad hoc implementation. This implementation
