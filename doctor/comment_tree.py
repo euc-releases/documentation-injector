@@ -1,5 +1,5 @@
 # Run with Python 3
-# Copyright 2019 VMware, Inc.
+# Copyright 2024 Omnissa, LLC.
 # SPDX-License-Identifier: BSD-2-Clause
 """\
 Generate Element Tree representation of documentation comments in code. Part of

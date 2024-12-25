@@ -48,7 +48,7 @@ To run the Doctor, you will need the following.
     
 
 -   The code in this repository,
-    [https://github.com/vmware/documentation-injector](https://github.com/vmware/documentation-injector)
+    [https://github.com/euc-releases/documentation-injector](https://github.com/euc-releases/documentation-injector)
 
 Check your installation by running the tool as follows.
 
@@ -247,10 +247,10 @@ Contributing
 ============
 The Doctor project team welcomes contributions from the community. Before you
 start working with doctor, please read our [Developer Certificate of
-Origin](https://cla.vmware.com/dco). All contributions to this repository must
-be signed as described on that page. Your signature certifies that you wrote the
-patch or have the right to pass it on as an open-source patch. For more detailed
-information, refer to the [contributing.md](contributing.md) file.
+Origin](https://github.com/euc-dev/.github/blob/main/Developer%20Certificate%20of%20Origin.md). 
+All contributions to this repository must be signed as described on that page. 
+Your signature certifies that you wrote the patch or have the right to pass it on as an open-source patch. 
+For more detailed information, refer to the [contributing.md](contributing.md) file.
 
 Check the [documentation/backlog.md](documentation/backlog.md) file for a list
 of work to be done.
@@ -258,6 +258,6 @@ of work to be done.
 License
 =======
 The Documentation Injector, Doctor, is:  
-Copyright 2019 VMware, Inc.  
-And licensed under a two-clause BSD license.  
+Copyright 2024 Omnissa, LLC.  
+And licensed under license:  
 SPDX-License-Identifier: BSD-2-Clause

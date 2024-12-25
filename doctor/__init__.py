@@ -1,4 +1,4 @@
-# Copyright 2019 VMware, Inc.
+# Copyright 2024 Omnissa, LLC.
 # SPDX-License-Identifier: BSD-2-Clause
 
 # Package initialisation for Doctor.
